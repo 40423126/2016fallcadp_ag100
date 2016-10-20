@@ -4,10 +4,10 @@
 
 網誌: https://40423126.github.io/2016fallcadp_ag9/blog/index.html
 
-# 組員: 
+組員: 
 <a href="https://40423126.github.io/2016fallcadp_ag9/40423135/#/">40423135</a>
 <a href="https://40423126.github.io/2016fallcadp_ag9/40423150/#/">40423150</a>
 <a href="https://40423126.github.io/2016fallcadp_ag9/40423154/#/">40423154</a>
 
-# 組長: 
+組長: 
 <a href="https://40423126.github.io/2016fallcadp_ag9/40423126/#/">40423126</a>
